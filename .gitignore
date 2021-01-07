@@ -1,6 +1,7 @@
 node_modules/
-build/
 !build/.gitkeep
+build/*.js
+build/*.js.map
 .env
 
 # Logs
